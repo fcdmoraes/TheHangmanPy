@@ -1,0 +1,6 @@
+magnum
+clips
+word
+friend
+coding
+python
